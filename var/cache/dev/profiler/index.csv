@@ -1,0 +1,5 @@
+eac580,172.23.0.1,GET,http://symfony3.dev:8080/app_dev.php/,1499259998,eb9167,200
+eb9167,172.23.0.1,GET,http://symfony3.dev:8080/app_dev.php/,1499259998,,500
+fa516a,172.23.0.1,GET,http://symfony3.dev:8080/app_dev.php/_wdt/eb9167,1499259998,527b71,200
+527b71,172.23.0.1,GET,http://symfony3.dev:8080/app_dev.php/_wdt/eb9167,1499259998,,500
+ee24bb,172.23.0.1,GET,http://symfony3.dev:8080/app_dev.php/,1499260044,,200
